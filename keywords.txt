@@ -1,0 +1,2 @@
+Lora32u4_Battery	KEYWORD1
+updateStatus		KEYWORD2
